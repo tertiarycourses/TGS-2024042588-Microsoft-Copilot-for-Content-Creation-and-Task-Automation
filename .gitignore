@@ -1,0 +1,23 @@
+# Confidential — assessment papers, answer keys and the builder that embeds the
+# model answers are trainer-only and are never published.
+assessment/
+reference/
+.claude/
+
+# Environment / secrets
+.env
+courseware/.env
+*.key
+*_api_key
+
+# Archives
+*.zip
+
+# OS / Office noise
+.DS_Store
+~$*
+*.tmp
+
+# Python bytecode
+__pycache__/
+*.pyc

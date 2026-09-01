@@ -1,0 +1,50 @@
+{
+  "sampleRequestBody": {
+    "requestId": "REQ-2026-0917",
+    "requesterName": "Priya Raman",
+    "requesterEmail": "priya.raman@lumina-living.example",
+    "vendorName": "Aspen Office Supplies",
+    "category": "Furniture",
+    "amountSgd": 1200,
+    "reason": "Replacement desks for the North office"
+  },
+  "generatedSchema": {
+    "type": "object",
+    "properties": {
+      "requestId": {
+        "type": "string"
+      },
+      "requesterName": {
+        "type": "string"
+      },
+      "requesterEmail": {
+        "type": "string"
+      },
+      "vendorName": {
+        "type": "string"
+      },
+      "category": {
+        "type": "string"
+      },
+      "amountSgd": {
+        "type": "number"
+      },
+      "reason": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "requestId",
+      "requesterName",
+      "requesterEmail",
+      "vendorName",
+      "amountSgd"
+    ]
+  },
+  "note": "Paste sampleRequestBody into 'Use sample payload to generate schema' in the When an HTTP request is received trigger. generatedSchema is what Power Automate should produce from it.",
+  "expectedResponse": {
+    "status": "routed",
+    "decision": "Route to approval \u2014 over limit",
+    "requestId": "REQ-2026-0917"
+  }
+}
