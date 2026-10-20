@@ -1,17 +1,24 @@
 # Microsoft Copilot for Content Creation and Task Automation
 
-[![WSQ](https://img.shields.io/badge/WSQ-TGS--2024042588-1F6FEB)](https://www.tertiarycourses.com.sg/wsq-copilot-for-power-automate.html) [![Duration](https://img.shields.io/badge/Duration-5%20Days%20%C2%B7%2038%20Hours-F59E0B)]() [![Labs](https://img.shields.io/badge/Labs-25%20Hands--On-10B981)]() [![Version](https://img.shields.io/badge/Courseware-v1.0-7C3AED)]()
+Learner-facing courseware for the WSQ course **Microsoft Copilot for Content Creation and Task Automation**, conducted by Tertiary Infotech Academy Pte Ltd (UEN 201200696W).
 
-Learner-facing courseware for the WSQ course **Microsoft Copilot for Content Creation and Task Automation** (`TGS-2024042588`), conducted by Tertiary Infotech Academy Pte Ltd (UEN: 201200696W).
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2024042588` |
+| Programme | WSQ |
+| Duration | 5 days / 40 hours, including 2 hours of assessment |
+| Skills Framework | Applications Integration — `ICT-DIT-3003-1.1` |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-microsoft-copilot-for-content-creation-and-task-automation.html) |
+| Funding | Up to 70% WSQ course-fee funding for eligible learners and employers. Eligibility and terms apply; see the course page. |
+| Courseware version | v1.0 |
+
+Learners download the course material from the LMS at https://lms-tms.tertiaryinfotech.com.
+
+## About the course
 
 This five-day programme has two halves. **Days 1–2** build the ability to create verified business content with Microsoft 365 Copilot in Word, PowerPoint, Excel and Outlook. **Days 3–5** build the ability to automate the process behind that content with Power Automate and Copilot Studio agents, then integrate, test, secure and govern the result.
 
 All 25 labs follow one connected scenario — **Lumina Living Pte Ltd** and its Sustainable Workspace campaign — so every day builds on the one before it.
-
-## Register
-
-- **Course page and registration:** https://www.tertiarycourses.com.sg/wsq-copilot-for-power-automate.html
-- **Courseware and assessment portal:** https://lms-tms.tertiaryinfotech.com
 
 ## Package
 
@@ -26,10 +33,17 @@ Detailed click-by-click procedures and the full prompts live in the Learner Guid
 
 ## Learning outcomes
 
-- LO1: Identify opportunities and perform feasibility scans for dataverse and Power App applications.
-- LO2: Utilise Business Flow and Power Automate to integrate functions across programs with API-level integration.
-- LO3: Execute tests in Power Virtual Agent and Power BI to verify their functioning across platforms.
-- LO4: Implement modifications to Power Platform with Power AI Builder and highlight technical issues.
+- **LO1:** Identify opportunities and perform feasibility scans for Microsoft Copilot applications.
+- **LO2:** Utilise Microsoft Copilot to integrate functions across programs with API-level integration.
+- **LO3:** Execute tests in Microsoft Copilot to verify their functioning across platforms.
+- **LO4:** Implement modifications to Microsoft Copilot to highlight technical issues.
+
+## Topics covered
+
+1. Microsoft Copilot Opportunity Identification and Feasibility Assessment
+2. Microsoft Copilot Integration and Task Automation
+3. Microsoft Copilot Testing and Cross-Platform Validation
+4. Microsoft Copilot Modification and Technical Troubleshooting
 
 ## Course structure
 
@@ -41,7 +55,7 @@ Detailed click-by-click procedures and the full prompts live in the Learner Guid
 | 4 | Copilot Studio Agents | Designing and Building Copilot Studio Agents | 16–20 |
 | 5 | Integration, Testing, Security and Assessment | Integrating, Testing, Securing and Optimising Agentic Automation | 21–25 |
 
-## The 25 labs
+## Labs
 
 | Lab | Day | Title | Level | Primary apps |
 |---:|---:|---|---|---|
@@ -94,8 +108,8 @@ Detailed click-by-click procedures and the full prompts live in the Learner Guid
 
 ## Distribution boundary
 
-Assessment papers, answer keys, reference material and `.env` files are confidential and are not published to this repository.
+Assessment papers and answer keys (`assessment/`), reference material (`reference/`), the Facilitator Guide and Assessment Plan, and `.env` files are confidential, trainer-only and are not published to this repository.
 
 ---
 
-*© 2026 Tertiary Infotech Academy Pte Ltd. All rights reserved. · [tertiarycourses.com.sg](https://www.tertiarycourses.com.sg)*
+*Developed and delivered by Tertiary Infotech Academy Pte Ltd (UEN 201200696W). © 2026 All rights reserved. · [tertiarycourses.com.sg](https://www.tertiarycourses.com.sg)*
